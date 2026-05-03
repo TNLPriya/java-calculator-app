@@ -18,5 +18,5 @@ Simple calculator program using Java.
 2. Run:
    java MainApp
 ## Files
-- Calculator.java - contains calcution methods
+- Calculator.java - contains calculation methods
 - MainApp.java - main program with menu 
