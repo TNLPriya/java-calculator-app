@@ -1,3 +1,4 @@
+// Simple Calculator Project - Day 3
 import java.util.Scanner;
 
 public class MainApp {
